@@ -20,6 +20,6 @@
   "homepage": "https://github.com/sanijalal/pengatur-hadirin#readme",
   "devDependencies": {},
   "dependencies": {
-    "fastify": "^3.22.0"
+    "fastify": "^3.29.4"
   }
 }
